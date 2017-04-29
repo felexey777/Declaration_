@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Declaration</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_selected_declaration">Выбранные</string>
+    <string name="icon_search">&#xf002;</string>
+    <string name="icon_star">&#xf005;</string>
+    <string name="icon_book">&#xf02d;</string>
+    <string name="search_declaration">Поиск деклараций</string>
+    <string name="selected">Выбранные</string>
+    <string name="search">Поиск</string>
+    <string name="search_dec">Поиск деклараций</string>
+    <string name="used">Используються только открытые источники</string>
+    <string name="all_dec">Все декларации</string>
+    <string name="saved_dec">Сохраненные декларации</string>
+    <string name="ser">Найти декларацию</string>
+    <string name="name">"ФИО: "</string>
+    <string name="place">"Место работы: "</string>
+    <string name="position">"Должность: "</string>
+    <string name="coment">"Коментарий: "</string>
+</resources>
